@@ -1,13 +1,13 @@
 Simple Calculator
-***
+
 This is a simple command-line calculator implemented in Python.
 
 Features
 ***
 Addition
 ***
-Subtraction
+2.Subtraction
 ***
-Multiplication
+3.Multiplication
 ***
-Division
+4.Division
